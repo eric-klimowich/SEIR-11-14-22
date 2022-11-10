@@ -129,18 +129,6 @@ Your instructors will use [Google Classroom](https://classroom.google.com) to as
 
 Please click [this invite link](https://classroom.google.com/c/NTYxNzI5OTgzMDE3?cjc=jzfjyhe) to join the Google Classroom!
 
-### Daily JavaScript Code Challenges (Deliverables)
-
-There are 30 required code challenges that will help you get the necessary practice on algorithmic thinking, writing code, as well as teach you new methods and techniques.
-
-Each challenge is assigned in Google Classroom and is implemented on [replit.com](https://replit.com).
-
-It is **highly recommended that you complete one code challenge per day** during the first 30 days of class, excluding project weeks.  You wll have up to 3 days to submit each challenge, however, you will benefit by completing each challenge on or near the day that it is assigned.
-
-Solution code is provided with each challenge.  It is recommended that you review the solution(s) AFTER you have solved the challenge on your own - reviewing the solutions will often provide new techniques to solving problems.  If you find yourself stuck after working hard to solve the challenge on your own, feel free to peek at the solutions for help, however, always take the time to fully understand how the solution code works.
-
-Let's solve day 1's solution together!
-
 ### Class Repo Structure
 
 ```
